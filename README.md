@@ -1,4 +1,4 @@
-# U.S. Agency for International Development INVEST PowerBI Dashboard
+# U.S. Agency for International Development (USAID) INVEST Project PowerBI Dashboard
 
 ## Background
 INVEST was global project implemented over seven years (2017-2024) that helped the U.S. Agency for International Development (USAID) mobilize private capital for development results. Increasingly, private investors and businesses are looking to emerging markets for better returns and new market opportunities. INVEST was designed to unlock the power of private capital to drive inclusive growth in countries where USAID works. INVEST mobilized $1.61 billion dollars to help USAID Missions reach their goals for food security, gender equality, job creation, global health, climate resilience, and more.
